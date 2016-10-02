@@ -1,0 +1,12 @@
+C:\Users\Fabio\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\bin\Debug\ep-shoppingcart.exe.config
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\bin\Debug\ep-shoppingcart.exe.config
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\bin\Debug\ep-shoppingcart.exe
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\bin\Debug\ep-shoppingcart.pdb
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\bin\Debug\ep-shoppingcart.xml
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep-shoppingcart.vbprojResolveAssemblyReference.cache
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep_shoppingcart.MainForm.resources
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep_shoppingcart.Resources.resources
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep-shoppingcart.vbproj.GenerateResource.Cache
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep-shoppingcart.exe
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep-shoppingcart.xml
+C:\Users\Alumno\Desktop\visual162-ep-shoppingcart-start-master\visual162-ep-shoppingcart-start-master\ep-shoppingcart\obj\Debug\ep-shoppingcart.pdb
